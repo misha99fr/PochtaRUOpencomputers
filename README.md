@@ -1,7 +1,10 @@
 # PochtaRUOpencomputers
 Табло "Почта России" для OpenOS(OpenComputers)
-# Демонстрация Работы
+# Демонстрация Работы(Display)
 ![image](https://github.com/user-attachments/assets/fe60ca5f-bbd5-4b81-b02c-35c367e4ef8e)
+# Демонстрация Работа(Main.lua(MineOS)):
+![image](https://github.com/user-attachments/assets/530bc007-2434-4b9d-9643-d7f92cdbc006)
+
 
 ну похоже ведь?
 
